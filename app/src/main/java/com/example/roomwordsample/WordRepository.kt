@@ -2,7 +2,6 @@ package com.example.android.roomwordssample
 
 import androidx.annotation.WorkerThread
 import com.example.roomwordsample.Word
-import com.example.roomwordsample.WordDao
 import kotlinx.coroutines.flow.Flow
 
 /**
